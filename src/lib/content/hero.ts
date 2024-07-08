@@ -2,14 +2,14 @@ import { HeroSectionType } from '@/lib/types/sections';
 import { resumeFileName } from '@/lib/utils/config';
 
 export const heroSection: HeroSectionType = {
-  subtitle: 'Hi, my name is',
-  title: 'vatsal singh.',
-  tagline: 'I create visually pleasing interfaces for the web.',
+  subtitle: 'Olá, meu nome é',
+  title: 'gabriel andrade.',
+  tagline: 'Crio interfaces visualmente agradáveis ​​para a web.',
   description:
-    "I'm a passionate Front-End web developer with hands-on experience in building web applications using React.js & Next.js with TypeScript, TailwindCSS, and Prisma, with UI/UX designing.",
+    "Sou um desenvolvedor web Front-End apaixonado com experiência prática na construção de aplicações web usando React.js e Next.js com TypeScript, TailwindCSS e Prisma, com design UI/UX.",
   specialText: 'Currently available for freelance',
   cta: {
-    title: 'see my resume',
+    title: 'Veja o meu resumo',
     url: `/${resumeFileName}`,
     hideInDesktop: true,
   },
