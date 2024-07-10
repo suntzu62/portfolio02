@@ -2,7 +2,7 @@ import { FeaturedProjectsSectionType } from '@/lib/types/sections';
 import { getId } from '@/lib/utils/helper';
 
 const featuredProjectsSection: FeaturedProjectsSectionType = {
-  title: "projects i've worked on",
+  title: "Projetos em que trabalhei",
   projects: [
     {
       id: getId(),

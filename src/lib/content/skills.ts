@@ -2,7 +2,7 @@ import { SkillsSectionType } from '@/lib/types/sections';
 import { getId } from '@/lib/utils/helper';
 
 export const skillsSection: SkillsSectionType = {
-  title: 'what i do',
+  title: 'O que eu faço',
   skills: [
     {
       id: getId(),
@@ -13,9 +13,9 @@ export const skillsSection: SkillsSectionType = {
         dark: '/lotties/frontend-dark.json',
       },
       points: [
-        'Building full-stack web applications using Next.js with TypeScript, TailwindCSS, ShadCN, and Prisma',
-        'Developing responsive single-page applications using React.js',
-        'Creating RESTful APIs using Express for backend development',
+        'Construindo aplicativos web full-stack usando Next.js com TypeScript, TailwindCSS, ShadCN e Prisma',
+        'Desenvolvendo aplicativos responsivos de página única usando React.js',
+        'Criação de APIs RESTful usando Express para desenvolvimento back-end',
       ],
       softwareSkills: [
         // iconify icons: https://icon-sets.iconify.design/
@@ -46,9 +46,9 @@ export const skillsSection: SkillsSectionType = {
         dark: '/lotties/designing-dark.json',
       },
       points: [
-        'Experience in designing user-friendly interfaces with figma',
-        'Experience in developing design systems and style guides',
-        'Providing user-friendly design solutions',
+        'Experiência em projetar interfaces fáceis de usuário com figma',
+        'Experiência no desenvolvimento de sistemas de design e guias de estilo',
+        'Fornecendo soluções de design fáceis de usar',
       ],
       softwareSkills: [
         { name: 'figma', icon: 'logos:figma' },
