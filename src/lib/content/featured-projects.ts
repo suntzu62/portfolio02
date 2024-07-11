@@ -7,10 +7,10 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
     {
       id: getId(),
       name: 'GetLifeGuard',
-      description: 'An E-Commerce platform for Self-Defense Keychain.',
+      description: 'E-commerce moderno com tecnologias atualizadas desde adição de carrinho .',
       tasks:
-        "As a freelancer, I understood the client's requirements and executed a plan to develop and design an e-commerce platform, including the frontend UI, backend setup with database, APIs, and integration with payment platforms.",
-      url: 'https://www.getlifegard.com/',
+        "Como freelancer, entendi os requisitos do cliente e executei um plano para desenvolver e projetar uma plataforma de e-commerce, incluindo UI frontend, configuração backend com banco de dados, APIs e integração com plataformas de pagamento.",
+      url: 'https://ecomm-tan-nu.vercel.app/',
       img: 'https://i.postimg.cc/zXFz7VvF/Screenshot-2024-05-19-at-12-50-34-PM.png',
       tags: [
         'NextJs 14',
