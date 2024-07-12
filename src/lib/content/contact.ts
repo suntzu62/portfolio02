@@ -2,11 +2,11 @@ import { author } from '@/lib/content/portfolio';
 import { ContactSectionType } from '@/lib/types/sections';
 
 export const contactSection: ContactSectionType = {
-  title: 'get in touch',
-  subtitle: "what's next",
+  title: 'entrar em contato',
+  subtitle: "qual é o próximo",
   paragraphs: [
-    'I’m currently looking for a remote job or any new opportunities.',
-    'Whether you have a project to discuss or just want to say hi, my inbox is open for all!',
+    'Atualmente estou procurando um emprego remoto ou novas oportunidades.',
+    'Quer você tenha um projeto para discutir ou apenas queira dizer oi, minha caixa de entrada está aberta para todos!',
   ],
   link: `mailto:${author.email}`,
 };
