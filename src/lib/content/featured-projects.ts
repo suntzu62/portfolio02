@@ -11,7 +11,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       tasks:
         "Como freelancer, entendi os requisitos do cliente e executei um plano para desenvolver e projetar uma plataforma de e-commerce, incluindo UI frontend, configuração backend com banco de dados, APIs e integração com plataformas de pagamento.",
       url: 'https://ecomm-tan-nu.vercel.app/',
-      img: 'https://i.postimg.cc/zXFz7VvF/Screenshot-2024-05-19-at-12-50-34-PM.png',
+      img: '/ecc.jpeg',
       tags: [
         'NextJs 14',
         'TypeScript',
